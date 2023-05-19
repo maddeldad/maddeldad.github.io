@@ -1,2 +1,3 @@
 # maddeldad.github.io
- github pages user site (draft)
+github pages user site (draft)
+{% include figure.html %}
